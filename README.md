@@ -1,5 +1,5 @@
-# CPP_Menu-Login_System_Mockup
-The terminal program prototype I based from of its SFML version.
+# Menu-Login_System_Mockup
+The terminal prototypes I based from of their SFML version.
 
 <b>SFML version:</b> https://github.com/MumuNiMochii/CPP-SFML_Menu-Login_System_Mockup<br>
 <b>SFML source:</b> https://github.com/MumuNiMochii/CPP-SFML_Menu-Login_System_Mockup_Source
@@ -7,5 +7,5 @@ The terminal program prototype I based from of its SFML version.
 ---
 
 ## About
-This is a program which emulates login and menu system. It is not actually logging in nor
-features <em>sign in</em> system.
+These are programs which emulate login and menu system. They are not actually logging in nor
+feature a <em>sign in</em> system.
